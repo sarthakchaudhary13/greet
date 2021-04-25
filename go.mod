@@ -1,3 +1,3 @@
-module github.com/sarthakchaudhary13/greet
+module github.com/sarthakvk/greet
 
 go 1.16
